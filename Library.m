@@ -1,9 +1,9 @@
 //
 //  Library.m
-//  BookApp
+//  
 //
-//  Created by wancheng on 12/28/13.
-//  Copyright (c) 2013 wancheng. All rights reserved.
+//  Raghav Haran
+//  Code Fellows iOS Challenge #1
 //
 
 #import "Library.h"
